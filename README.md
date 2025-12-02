@@ -81,18 +81,4 @@ This project presents an interactive visualization of key urban indicators in **
 * Add filtering widgets for interactive dashboards
 * Integrate machine learning models for classification or clustering of urban zones
 
----
 
-## 📸 Screenshots
-
-> Add screenshots of your visualizations here for better project showcase (optional)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-Let me know if you'd like this converted into an actual `README.md` file or need help uploading to GitHub.
